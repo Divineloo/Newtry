@@ -17,19 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040"
+    "61555835579977",
+    "61555835579977"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
-  "AGE": "18",
+  "OWNER": "Dave巴卡",
+  "AGE": "19",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
+  "nickNameBot": "Dave哈比比😍",
+  "FACEBOOK": "https://www.facebook.com/61555835579977",
   "prefix": "✓",
   "database": {
     "type": "sqlite",
